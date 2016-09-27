@@ -1,6 +1,6 @@
 # githubtestrepo
 test commits for testing the github api
 
-bar
+foobaz
 
 qwe foo
