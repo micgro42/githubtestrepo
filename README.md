@@ -3,4 +3,4 @@ test commits for testing the github api
 
 should work now
 
-another attempt
+another attempt - see if we can reproduce the hash
